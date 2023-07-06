@@ -26,4 +26,3 @@ You can install the Dart by visiting the official Dart website at [dart.dev](htt
 ```
 
 - Every Dart program starts with main() function and must have a main() function.
-- Every Dart program starts with main() function and must have a main() function.
