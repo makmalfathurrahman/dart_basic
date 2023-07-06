@@ -1,6 +1,6 @@
 # Basic of Dart
 
-<img src="./dart_logo.png" alt="Size Limit logo by Anton Lovchikov" width="300" height="auto" align="left">
+<img src="./dart_logo.png" alt="Size Limit logo by Anton Lovchikov" width="400" height="auto" align="left">
 
 This is a some basic code of Dart. Dart is a programming language developed by Google. Dart is designed to build high-performance applications on various platforms, including web, mobile, and desktop. This code is consist of the basic syntax and features of Dart.
 
